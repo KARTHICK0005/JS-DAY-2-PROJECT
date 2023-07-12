@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+
+}
+#aa{
+    border: 5px solid gray;
+    border-radius: 4px;
+    background-color:grey;
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-position: center;
+    display:absolute ;
+}
